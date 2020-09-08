@@ -610,6 +610,10 @@ input[type="button"]::-moz-focus-inner {
 		text-align: center;
 		padding: .5rem;
 	}
+	
+	.wpp-number{
+		display: none;
+	}
 
 }
 
